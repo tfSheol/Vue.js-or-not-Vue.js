@@ -27,7 +27,7 @@ http-server="^0.12.3"
     "_home.title": "Vue.js or not Vue.js...",
     "test.message": "a test message",
     "test.bis": "A second test Message",
-    "lorem.1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in neque mattis, gravida lacus non, sollicitudin purus. Fusce finibus ut eros ut tincidunt. Integer lacinia elit quis quam volutpat venenatis. Praesent scelerisque neque eu rutrum vestibulum. Maecenas nec nunc vel dolor egestas consectetur id sit amet nibh. Nunc cursus consectetur aliquam. Quisque sed mattis lacus. Fusce lacinia, eros et maximus interdum, ante sem interdum eros, tristique elementum enim felis ac massa.",
+    "lorem.1": "Lorem ipsum ...",
     "missing.in.html": "nothing to show here"
 }
 ```
