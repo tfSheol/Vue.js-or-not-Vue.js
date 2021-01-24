@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>{{ _home.title }}</title>
+        <link rel="stylesheet" href="assets/style.css" type="text/css">
+    </head>
+    <body>
+        {{ test.message }}
+        {{ test.bis }}
+        <p>{{ test.message }}</p>
+        <div class="border">
+            <p>{{ lorem.1 }}</p>
+            <p>{{ error }}</p> <!-- this key is not present in values.json -->
+            <p>{{error.format}}</p> <!-- string to replace is in a bad format (missing some spaces) -->
+        </div>
+    </body>
+</html>
+
+<script src="src/vue.js"></script>

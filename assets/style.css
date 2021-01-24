@@ -1,0 +1,9 @@
+html {
+    visibility: hidden;
+}
+
+.border {
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    padding: 3px;
+}
