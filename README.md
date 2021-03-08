@@ -1,6 +1,6 @@
 # Vue.js or not Vue.js...
 
-A simple example to reproduce the Vue.js, AngularJs(or Angular2+), React.js variable replace system. In this case, is can be used to change language of website with many `json` files.
+A simple example to reproduce the Vue.js, AngularJs(or Angular2+), or React.js variable replacement system. In this case, it's can be used to change the language of the website with many `json` files.
 
 ```js
 let vue = new Vue();
